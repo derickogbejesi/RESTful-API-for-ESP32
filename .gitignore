@@ -45,3 +45,6 @@ Thumbs.db
 # Build outputs
 dist/
 build/
+
+# Project management
+KANBAN.md

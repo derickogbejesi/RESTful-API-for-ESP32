@@ -1,4 +1,20 @@
 {
+  "name": "restful-esp32-gateway",
+  "version": "1.0.0",
+  "description": "RESTful API Gateway for ESP32-Firebase Integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "start:test": "node test-server.js",
+    "test": "jest",
+    "test:unit": "jest tests/unit",
+    "test:integration": "jest tests/integration",
+    "test:load": "node tests/load/load-test.js",
+    "test:performance": "node tests/performance-metrics.js",
+    "simulator": "node simulator/esp32-simulator.js",
+    "analysis": "node analysis/generate-report.js",
+    "report": "node analysis/generate-report.js && cat analysis/performance-summary.txt"
+  },
   "dependencies": {
     "axios": "^1.11.0",
     "cors": "^2.8.5",
@@ -10,5 +26,9 @@
     "helmet": "^8.1.0",
     "jsonwebtoken": "^9.0.2",
     "morgan": "^1.10.1"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5",
+    "supertest": "^7.1.4"
   }
 }

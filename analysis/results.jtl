@@ -1,0 +1,611 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1756109437897,473,Device Authentication,200,OK,1 Device Test 1-1,text,true,,1264,250,1,61,http://localhost:3000/api/auth/device,467,0,18
+1756109437897,473,Device Authentication,200,OK,50 Devices Test 3-1,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,467,0,18
+1756109437897,473,Device Authentication,200,OK,10 Devices Test 2-1,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,473,0,18
+1756109437897,473,Device Authentication,200,OK,10 Devices Test 2-2,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,467,0,18
+1756109437897,473,Device Authentication,200,OK,50 Devices Test 3-2,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,467,0,18
+1756109437897,473,Device Authentication,200,OK,50 Devices Test 3-3,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,467,0,18
+1756109437933,839,Device Authentication,200,OK,50 Devices Test 3-4,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,839,0,0
+1756109438137,637,Device Authentication,200,OK,50 Devices Test 3-5,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,637,0,2
+1756109438331,445,Device Authentication,200,OK,10 Devices Test 2-3,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,445,0,1
+1756109438333,637,Device Authentication,200,OK,50 Devices Test 3-6,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,637,0,2
+1756109438536,437,Device Authentication,200,OK,50 Devices Test 3-7,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,437,0,1
+1756109438734,423,Device Authentication,200,OK,50 Devices Test 3-8,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,423,0,1
+1756109438828,420,Device Authentication,200,OK,10 Devices Test 2-4,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,420,0,0
+1756109438938,427,Device Authentication,200,OK,50 Devices Test 3-9,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109439136,426,Device Authentication,200,OK,50 Devices Test 3-10,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,2
+1756109439330,428,Device Authentication,200,OK,10 Devices Test 2-5,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,428,0,1
+1756109439334,430,Device Authentication,200,OK,50 Devices Test 3-11,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,430,0,1
+1756109439537,426,Device Authentication,200,OK,50 Devices Test 3-12,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,2
+1756109439734,421,Device Authentication,200,OK,50 Devices Test 3-13,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,421,0,1
+1756109439826,426,Device Authentication,200,OK,10 Devices Test 2-6,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,426,0,1
+1756109439936,427,Device Authentication,200,OK,50 Devices Test 3-14,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109440136,425,Device Authentication,200,OK,50 Devices Test 3-15,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,2
+1756109440330,444,Device Authentication,200,OK,10 Devices Test 2-7,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,444,0,1
+1756109440335,440,Device Authentication,200,OK,50 Devices Test 3-16,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,440,0,2
+1756109440535,427,Device Authentication,200,OK,50 Devices Test 3-17,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,2
+1756109440736,428,Device Authentication,200,OK,50 Devices Test 3-18,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,428,0,2
+1756109440828,421,Device Authentication,200,OK,10 Devices Test 2-8,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,421,0,1
+1756109440937,430,Device Authentication,200,OK,50 Devices Test 3-19,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,429,0,2
+1756109441135,425,Device Authentication,200,OK,50 Devices Test 3-20,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,2
+1756109441330,448,Device Authentication,200,OK,10 Devices Test 2-9,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,448,0,2
+1756109441336,444,Device Authentication,200,OK,50 Devices Test 3-21,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,444,0,2
+1756109441535,426,Device Authentication,200,OK,50 Devices Test 3-22,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,2
+1756109441733,425,Device Authentication,200,OK,50 Devices Test 3-23,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,2
+1756109441827,421,Device Authentication,200,OK,10 Devices Test 2-10,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,421,0,0
+1756109441935,425,Device Authentication,200,OK,50 Devices Test 3-24,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,2
+1756109442136,422,Device Authentication,200,OK,50 Devices Test 3-25,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,422,0,2
+1756109442336,421,Device Authentication,200,OK,50 Devices Test 3-26,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,421,0,0
+1756109442537,423,Device Authentication,200,OK,50 Devices Test 3-27,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,423,0,1
+1756109442736,425,Device Authentication,200,OK,50 Devices Test 3-28,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109442935,426,Device Authentication,200,OK,50 Devices Test 3-29,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109443137,420,Device Authentication,200,OK,50 Devices Test 3-30,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,420,0,0
+1756109443337,835,Device Authentication,200,OK,50 Devices Test 3-31,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,835,0,1
+1756109443537,635,Device Authentication,200,OK,50 Devices Test 3-32,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,635,0,2
+1756109443736,437,Device Authentication,200,OK,50 Devices Test 3-33,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,437,0,2
+1756109443935,421,Device Authentication,200,OK,50 Devices Test 3-34,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,421,0,1
+1756109444136,423,Device Authentication,200,OK,50 Devices Test 3-35,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,423,0,1
+1756109444337,650,Device Authentication,200,OK,50 Devices Test 3-36,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,649,0,2
+1756109444535,452,Device Authentication,200,OK,50 Devices Test 3-37,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,452,0,1
+1756109444734,836,Device Authentication,200,OK,50 Devices Test 3-38,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,836,0,0
+1756109444937,633,Device Authentication,200,OK,50 Devices Test 3-39,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,633,0,2
+1756109445136,435,Device Authentication,200,OK,50 Devices Test 3-40,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,435,0,1
+1756109445337,425,Device Authentication,200,OK,50 Devices Test 3-41,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109445535,426,Device Authentication,200,OK,50 Devices Test 3-42,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,2
+1756109445736,423,Device Authentication,200,OK,50 Devices Test 3-43,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,423,0,1
+1756109445936,425,Device Authentication,200,OK,50 Devices Test 3-44,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,2
+1756109446136,420,Device Authentication,200,OK,50 Devices Test 3-45,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,420,0,1
+1756109446335,425,Device Authentication,200,OK,50 Devices Test 3-46,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109446538,423,Device Authentication,200,OK,50 Devices Test 3-47,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,423,0,1
+1756109446733,419,Device Authentication,200,OK,50 Devices Test 3-48,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,419,0,1
+1756109446937,420,Device Authentication,200,OK,50 Devices Test 3-49,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,420,0,1
+1756109447137,425,Device Authentication,200,OK,50 Devices Test 3-50,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109468401,881,Send Sensor Data,200,OK,1 Device Test 1-1,text,true,,1058,518,1,61,http://localhost:3000/api/sensor/data,881,0,3
+1756109468401,1210,Send Sensor Data,200,OK,10 Devices Test 2-1,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,1210,0,3
+1756109468401,1213,Send Sensor Data,200,OK,10 Devices Test 2-2,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,1213,0,3
+1756109468401,1216,Send Sensor Data,200,OK,50 Devices Test 3-1,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1216,0,3
+1756109468401,1218,Send Sensor Data,200,OK,50 Devices Test 3-2,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1218,0,3
+1756109468401,1221,Send Sensor Data,200,OK,50 Devices Test 3-3,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1221,0,3
+1756109468777,903,Send Sensor Data,200,OK,50 Devices Test 3-4,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,903,0,1
+1756109468777,905,Send Sensor Data,200,OK,50 Devices Test 3-5,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,905,0,1
+1756109468778,906,Send Sensor Data,200,OK,10 Devices Test 2-3,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,906,0,2
+1756109468974,1068,Send Sensor Data,200,OK,50 Devices Test 3-6,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1068,0,2
+1756109468977,1134,Send Sensor Data,200,OK,50 Devices Test 3-7,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1134,0,2
+1756109469161,951,Send Sensor Data,200,OK,50 Devices Test 3-8,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,951,0,2
+1756109469253,860,Send Sensor Data,200,OK,10 Devices Test 2-4,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,860,0,1
+1756109469370,846,Send Sensor Data,200,OK,50 Devices Test 3-9,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,846,0,1
+1756109469564,846,Send Sensor Data,200,OK,50 Devices Test 3-10,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,846,0,2
+1756109469762,1062,Send Sensor Data,200,OK,10 Devices Test 2-5,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,1062,0,1
+1756109469765,1059,Send Sensor Data,200,OK,50 Devices Test 3-11,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1059,0,2
+1756109469967,859,Send Sensor Data,200,OK,50 Devices Test 3-12,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,859,0,1
+1756109470157,1096,Send Sensor Data,200,OK,50 Devices Test 3-13,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1096,0,1
+1756109470257,997,Send Sensor Data,200,OK,10 Devices Test 2-6,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,997,0,2
+1756109470367,887,Send Sensor Data,200,OK,50 Devices Test 3-14,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,887,0,1
+1756109470564,852,Send Sensor Data,200,OK,50 Devices Test 3-15,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,852,0,1
+1756109470778,838,Send Sensor Data,200,OK,10 Devices Test 2-7,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,838,0,1
+1756109470778,841,Send Sensor Data,200,OK,50 Devices Test 3-16,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,841,0,2
+1756109470965,866,Send Sensor Data,200,OK,50 Devices Test 3-17,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,866,0,2
+1756109471168,846,Send Sensor Data,200,OK,50 Devices Test 3-18,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,846,0,2
+1756109471252,838,Send Sensor Data,200,OK,10 Devices Test 2-8,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,838,0,0
+1756109471370,842,Send Sensor Data,200,OK,50 Devices Test 3-19,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,842,0,2
+1756109471561,843,Send Sensor Data,200,OK,50 Devices Test 3-20,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,843,0,2
+1756109471783,837,Send Sensor Data,200,OK,10 Devices Test 2-9,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,837,0,1
+1756109471785,839,Send Sensor Data,200,OK,50 Devices Test 3-21,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,839,0,0
+1756109471965,836,Send Sensor Data,200,OK,50 Devices Test 3-22,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,836,0,0
+1756109472161,842,Send Sensor Data,200,OK,50 Devices Test 3-23,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,842,0,1
+1756109472251,843,Send Sensor Data,200,OK,10 Devices Test 2-10,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,843,0,2
+1756109472362,841,Send Sensor Data,200,OK,50 Devices Test 3-24,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,841,0,1
+1756109472560,845,Send Sensor Data,200,OK,50 Devices Test 3-25,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,845,0,1
+1756109472760,852,Send Sensor Data,200,OK,50 Devices Test 3-26,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,852,0,1
+1756109472964,837,Send Sensor Data,200,OK,50 Devices Test 3-27,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,837,0,0
+1756109473162,866,Send Sensor Data,200,OK,50 Devices Test 3-28,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,866,0,2
+1756109473364,842,Send Sensor Data,200,OK,50 Devices Test 3-29,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,842,0,1
+1756109473562,844,Send Sensor Data,200,OK,50 Devices Test 3-30,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,844,0,1
+1756109474172,845,Send Sensor Data,200,OK,50 Devices Test 3-31,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,845,0,2
+1756109474173,848,Send Sensor Data,200,OK,50 Devices Test 3-33,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,848,0,1
+1756109474173,850,Send Sensor Data,200,OK,50 Devices Test 3-32,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,850,0,1
+1756109474358,1078,Send Sensor Data,200,OK,50 Devices Test 3-34,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1078,0,2
+1756109474560,877,Send Sensor Data,200,OK,50 Devices Test 3-35,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,877,0,2
+1756109474987,843,Send Sensor Data,200,OK,50 Devices Test 3-36,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,843,0,2
+1756109474988,864,Send Sensor Data,200,OK,50 Devices Test 3-37,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,864,0,1
+1756109475571,853,Send Sensor Data,200,OK,50 Devices Test 3-38,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,853,0,1
+1756109475571,857,Send Sensor Data,200,OK,50 Devices Test 3-39,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,857,0,1
+1756109475571,860,Send Sensor Data,200,OK,50 Devices Test 3-40,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,860,0,2
+1756109475764,852,Send Sensor Data,200,OK,50 Devices Test 3-41,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,852,0,2
+1756109475962,866,Send Sensor Data,200,OK,50 Devices Test 3-42,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,866,0,1
+1756109476160,853,Send Sensor Data,200,OK,50 Devices Test 3-43,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,853,0,2
+1756109476363,891,Send Sensor Data,200,OK,50 Devices Test 3-44,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,891,0,2
+1756109476556,849,Send Sensor Data,200,OK,50 Devices Test 3-45,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,849,0,0
+1756109476761,859,Send Sensor Data,200,OK,50 Devices Test 3-46,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,859,0,2
+1756109476962,877,Send Sensor Data,200,OK,50 Devices Test 3-47,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,877,0,1
+1756109477152,870,Send Sensor Data,200,OK,50 Devices Test 3-48,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,869,0,2
+1756109477359,896,Send Sensor Data,200,OK,50 Devices Test 3-49,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,896,0,1
+1756109477564,882,Send Sensor Data,200,OK,50 Devices Test 3-50,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,882,0,2
+1756109499285,422,Device Authentication,200,OK,1 Device Test 1-1,text,true,,1264,250,1,61,http://localhost:3000/api/auth/device,422,0,1
+1756109499615,426,Device Authentication,200,OK,10 Devices Test 2-1,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,426,0,1
+1756109499617,427,Device Authentication,200,OK,10 Devices Test 2-2,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,427,0,1
+1756109499619,430,Device Authentication,200,OK,50 Devices Test 3-1,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,430,0,2
+1756109499622,427,Device Authentication,200,OK,50 Devices Test 3-2,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,0
+1756109499624,494,Device Authentication,200,OK,50 Devices Test 3-3,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,494,0,1
+1756109499681,438,Device Authentication,200,OK,50 Devices Test 3-4,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,437,0,2
+1756109499683,436,Device Authentication,200,OK,50 Devices Test 3-5,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,436,0,1
+1756109499685,762,Device Authentication,200,OK,10 Devices Test 2-3,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,762,0,1
+1756109500044,427,Device Authentication,200,OK,50 Devices Test 3-6,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,2
+1756109500112,424,Device Authentication,200,OK,50 Devices Test 3-7,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109500112,687,Device Authentication,200,OK,50 Devices Test 3-8,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,687,0,1
+1756109500113,687,Device Authentication,200,OK,10 Devices Test 2-4,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,687,0,1
+1756109500219,629,Device Authentication,200,OK,50 Devices Test 3-9,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,629,0,1
+1756109500413,458,Device Authentication,200,OK,50 Devices Test 3-10,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,458,0,1
+1756109500826,427,Device Authentication,200,OK,10 Devices Test 2-5,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,427,0,1
+1756109500826,440,Device Authentication,200,OK,50 Devices Test 3-11,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,440,0,2
+1756109500827,440,Device Authentication,200,OK,50 Devices Test 3-12,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,440,0,1
+1756109501255,428,Device Authentication,200,OK,10 Devices Test 2-6,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,428,0,1
+1756109501255,441,Device Authentication,200,OK,50 Devices Test 3-14,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,441,0,1
+1756109501255,448,Device Authentication,200,OK,50 Devices Test 3-13,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,448,0,1
+1756109501419,422,Device Authentication,200,OK,50 Devices Test 3-15,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,422,0,0
+1756109501619,427,Device Authentication,200,OK,10 Devices Test 2-7,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,427,0,1
+1756109501622,434,Device Authentication,200,OK,50 Devices Test 3-16,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,434,0,1
+1756109501833,425,Device Authentication,200,OK,50 Devices Test 3-17,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109502016,425,Device Authentication,200,OK,50 Devices Test 3-18,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,2
+1756109502093,423,Device Authentication,200,OK,10 Devices Test 2-8,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,423,0,1
+1756109502214,626,Device Authentication,200,OK,50 Devices Test 3-19,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,626,0,2
+1756109502405,437,Device Authentication,200,OK,50 Devices Test 3-20,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,437,0,1
+1756109502623,424,Device Authentication,200,OK,10 Devices Test 2-9,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,424,0,1
+1756109502627,422,Device Authentication,200,OK,50 Devices Test 3-21,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,422,0,1
+1756109502803,425,Device Authentication,200,OK,50 Devices Test 3-22,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109503004,428,Device Authentication,200,OK,50 Devices Test 3-23,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,428,0,2
+1756109503096,421,Device Authentication,200,OK,10 Devices Test 2-10,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,421,0,1
+1756109503205,422,Device Authentication,200,OK,50 Devices Test 3-24,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,422,0,0
+1756109503407,424,Device Authentication,200,OK,50 Devices Test 3-25,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109503616,426,Device Authentication,200,OK,50 Devices Test 3-26,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109503803,423,Device Authentication,200,OK,50 Devices Test 3-27,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,423,0,1
+1756109504032,427,Device Authentication,200,OK,50 Devices Test 3-28,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,2
+1756109504209,422,Device Authentication,200,OK,50 Devices Test 3-29,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,422,0,1
+1756109504408,646,Device Authentication,200,OK,50 Devices Test 3-30,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,646,0,2
+1756109505020,430,Device Authentication,200,OK,50 Devices Test 3-31,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,429,0,1
+1756109505023,428,Device Authentication,200,OK,50 Devices Test 3-33,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,428,0,1
+1756109505026,427,Device Authentication,200,OK,50 Devices Test 3-32,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,0
+1756109505439,426,Device Authentication,200,OK,50 Devices Test 3-34,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109505440,438,Device Authentication,200,OK,50 Devices Test 3-35,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,438,0,1
+1756109505833,427,Device Authentication,200,OK,50 Devices Test 3-36,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109505854,426,Device Authentication,200,OK,50 Devices Test 3-37,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,2
+1756109506426,427,Device Authentication,200,OK,50 Devices Test 3-38,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109506431,427,Device Authentication,200,OK,50 Devices Test 3-39,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109506433,431,Device Authentication,200,OK,50 Devices Test 3-40,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,431,0,1
+1756109506619,428,Device Authentication,200,OK,50 Devices Test 3-41,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,428,0,2
+1756109506831,427,Device Authentication,200,OK,50 Devices Test 3-42,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109507016,427,Device Authentication,200,OK,50 Devices Test 3-43,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,2
+1756109507255,427,Device Authentication,200,OK,50 Devices Test 3-44,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109507407,427,Device Authentication,200,OK,50 Devices Test 3-45,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109507623,425,Device Authentication,200,OK,50 Devices Test 3-46,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109507842,426,Device Authentication,200,OK,50 Devices Test 3-47,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109508025,428,Device Authentication,200,OK,50 Devices Test 3-48,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,428,0,2
+1756109508258,428,Device Authentication,200,OK,50 Devices Test 3-49,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,428,0,2
+1756109508450,426,Device Authentication,200,OK,50 Devices Test 3-50,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109529710,1168,Send Sensor Data,200,OK,1 Device Test 1-1,text,true,,1058,518,1,61,http://localhost:3000/api/sensor/data,1168,0,2
+1756109530044,905,Send Sensor Data,200,OK,10 Devices Test 2-1,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,904,0,1
+1756109530046,1153,Send Sensor Data,200,OK,10 Devices Test 2-2,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,1153,0,1
+1756109530050,1151,Send Sensor Data,200,OK,50 Devices Test 3-1,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1151,0,1
+1756109530050,1152,Send Sensor Data,200,OK,50 Devices Test 3-2,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1152,0,1
+1756109530119,1084,Send Sensor Data,200,OK,50 Devices Test 3-3,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1084,0,1
+1756109530120,1232,Send Sensor Data,200,OK,50 Devices Test 3-4,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1232,0,1
+1756109530120,1287,Send Sensor Data,200,OK,50 Devices Test 3-5,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1287,0,1
+1756109530449,958,Send Sensor Data,200,OK,10 Devices Test 2-3,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,958,0,1
+1756109530473,1148,Send Sensor Data,200,OK,50 Devices Test 3-6,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1148,0,0
+1756109530539,1084,Send Sensor Data,200,OK,50 Devices Test 3-7,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1084,0,2
+1756109530803,842,Send Sensor Data,200,OK,10 Devices Test 2-4,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,842,0,1
+1756109530802,849,Send Sensor Data,200,OK,50 Devices Test 3-8,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,849,0,2
+1756109530850,869,Send Sensor Data,200,OK,50 Devices Test 3-9,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,869,0,1
+1756109530872,1176,Send Sensor Data,200,OK,50 Devices Test 3-10,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1176,0,2
+1756109531256,880,Send Sensor Data,200,OK,10 Devices Test 2-5,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,880,0,0
+1756109531269,869,Send Sensor Data,200,OK,50 Devices Test 3-11,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,869,0,1
+1756109531270,1013,Send Sensor Data,200,OK,50 Devices Test 3-12,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,1013,0,1
+1756109531685,845,Send Sensor Data,200,OK,10 Devices Test 2-6,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,845,0,1
+1756109531699,853,Send Sensor Data,200,OK,50 Devices Test 3-14,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,853,0,1
+1756109531706,995,Send Sensor Data,200,OK,50 Devices Test 3-13,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,995,0,1
+1756109531843,859,Send Sensor Data,200,OK,50 Devices Test 3-15,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,859,0,1
+1756109532047,845,Send Sensor Data,200,OK,10 Devices Test 2-7,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,845,0,2
+1756109532057,847,Send Sensor Data,200,OK,50 Devices Test 3-16,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,847,0,2
+1756109532261,846,Send Sensor Data,200,OK,50 Devices Test 3-17,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,846,0,1
+1756109532442,840,Send Sensor Data,200,OK,50 Devices Test 3-18,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,840,0,0
+1756109532517,841,Send Sensor Data,200,OK,10 Devices Test 2-8,text,true,,1058,518,10,61,http://localhost:3000/api/sensor/data,840,0,1
+1756109532843,846,Send Sensor Data,200,OK,50 Devices Test 3-19,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,846,0,2
+1756109532844,849,Send Sensor Data,200,OK,50 Devices Test 3-20,text,true,,1058,518,50,61,http://localhost:3000/api/sensor/data,849,0,1
+1756109533050,838,Send Sensor Data,200,OK,10 Devices Test 2-9,text,true,,1057,518,10,61,http://localhost:3000/api/sensor/data,837,0,0
+1756109533052,840,Send Sensor Data,200,OK,50 Devices Test 3-21,text,true,,1057,518,50,61,http://localhost:3000/api/sensor/data,840,0,0
+1756109533230,846,Send Sensor Data,200,OK,50 Devices Test 3-22,text,true,,1057,518,50,61,http://localhost:3000/api/sensor/data,846,0,2
+1756109533434,844,Send Sensor Data,200,OK,50 Devices Test 3-23,text,true,,1057,518,50,61,http://localhost:3000/api/sensor/data,844,0,1
+1756109533518,846,Send Sensor Data,200,OK,10 Devices Test 2-10,text,true,,1057,518,10,61,http://localhost:3000/api/sensor/data,846,0,2
+1756109533630,848,Send Sensor Data,200,OK,50 Devices Test 3-24,text,true,,1057,518,50,61,http://localhost:3000/api/sensor/data,848,0,1
+1756109534634,9,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-29,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,1
+1756109533832,844,Send Sensor Data,200,OK,50 Devices Test 3-25,text,true,,1057,518,50,61,http://localhost:3000/api/sensor/data,844,0,1
+1756109534043,848,Send Sensor Data,200,OK,50 Devices Test 3-26,text,true,,1057,518,50,61,http://localhost:3000/api/sensor/data,848,0,2
+1756109535056,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-30,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109534228,846,Send Sensor Data,200,OK,50 Devices Test 3-27,text,true,,1057,518,50,61,http://localhost:3000/api/sensor/data,846,0,1
+1756109534460,848,Send Sensor Data,200,OK,50 Devices Test 3-28,text,true,,1057,518,50,61,http://localhost:3000/api/sensor/data,848,0,2
+1756109535452,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-31,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,2
+1756109535454,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-33,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,1
+1756109535456,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-32,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109535868,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-34,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109535881,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-35,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109536262,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-36,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,1
+1756109536282,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-37,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109536856,4,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-38,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,4,0,1
+1756109536862,1,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-39,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,1,0,0
+1756109536867,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-40,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109537050,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-41,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109537260,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-42,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109537446,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-43,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109537683,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-44,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109537837,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-45,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109538050,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-46,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,2
+1756109538271,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-47,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,1
+1756109538456,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-48,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109538689,6,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-49,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,6,0,1
+1756109538879,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-50,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109560881,424,Device Authentication,200,OK,1 Device Test 1-1,text,true,,1264,250,1,61,http://localhost:3000/api/auth/device,424,0,1
+1756109560950,423,Device Authentication,200,OK,10 Devices Test 2-1,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,423,0,1
+1756109561201,428,Device Authentication,200,OK,10 Devices Test 2-2,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,428,0,2
+1756109561203,433,Device Authentication,200,OK,50 Devices Test 3-1,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,433,0,2
+1756109561203,435,Device Authentication,200,OK,50 Devices Test 3-2,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,435,0,2
+1756109561204,436,Device Authentication,200,OK,50 Devices Test 3-3,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,436,0,1
+1756109561354,423,Device Authentication,200,OK,50 Devices Test 3-4,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,423,0,1
+1756109561408,622,Device Authentication,200,OK,50 Devices Test 3-5,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,622,0,2
+1756109561409,622,Device Authentication,200,OK,10 Devices Test 2-3,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,622,0,1
+1756109561624,428,Device Authentication,200,OK,50 Devices Test 3-6,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,428,0,2
+1756109561625,439,Device Authentication,200,OK,50 Devices Test 3-7,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,439,0,2
+1756109561647,425,Device Authentication,200,OK,10 Devices Test 2-4,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,425,0,2
+1756109561652,527,Device Authentication,200,OK,50 Devices Test 3-8,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,527,0,2
+1756109561721,459,Device Authentication,200,OK,50 Devices Test 3-9,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,459,0,2
+1756109562051,426,Device Authentication,200,OK,50 Devices Test 3-10,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,3
+1756109562139,422,Device Authentication,200,OK,10 Devices Test 2-5,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,422,0,0
+1756109562140,422,Device Authentication,200,OK,50 Devices Test 3-11,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,422,0,0
+1756109562285,427,Device Authentication,200,OK,50 Devices Test 3-12,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109562532,421,Device Authentication,200,OK,10 Devices Test 2-6,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,421,0,0
+1756109562554,425,Device Authentication,200,OK,50 Devices Test 3-14,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109562702,426,Device Authentication,200,OK,50 Devices Test 3-13,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109562703,434,Device Authentication,200,OK,50 Devices Test 3-15,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,434,0,1
+1756109562894,497,Device Authentication,200,OK,10 Devices Test 2-7,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,497,0,2
+1756109562906,486,Device Authentication,200,OK,50 Devices Test 3-16,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,486,0,2
+1756109563108,424,Device Authentication,200,OK,50 Devices Test 3-17,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,424,0,2
+1756109563283,424,Device Authentication,200,OK,50 Devices Test 3-18,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109563359,657,Device Authentication,200,OK,10 Devices Test 2-8,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,656,0,1
+1756109563691,424,Device Authentication,200,OK,50 Devices Test 3-19,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109563695,422,Device Authentication,200,OK,50 Devices Test 3-20,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,422,0,1
+1756109563891,422,Device Authentication,200,OK,10 Devices Test 2-9,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,422,0,1
+1756109563894,422,Device Authentication,200,OK,50 Devices Test 3-21,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,422,0,1
+1756109564078,427,Device Authentication,200,OK,50 Devices Test 3-22,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,2
+1756109564279,428,Device Authentication,200,OK,50 Devices Test 3-23,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,428,0,1
+1756109564366,427,Device Authentication,200,OK,10 Devices Test 2-10,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,426,0,1
+1756109564480,428,Device Authentication,200,OK,50 Devices Test 3-24,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,2
+1756109564646,427,Device Authentication,200,OK,50 Devices Test 3-29,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109564678,427,Device Authentication,200,OK,50 Devices Test 3-25,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109564893,428,Device Authentication,200,OK,50 Devices Test 3-26,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,428,0,2
+1756109565065,425,Device Authentication,200,OK,50 Devices Test 3-30,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,2
+1756109565075,464,Device Authentication,200,OK,50 Devices Test 3-27,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,464,0,1
+1756109565310,426,Device Authentication,200,OK,50 Devices Test 3-28,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,2
+1756109565461,423,Device Authentication,200,OK,50 Devices Test 3-31,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,423,0,2
+1756109565463,425,Device Authentication,200,OK,50 Devices Test 3-33,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109565464,425,Device Authentication,200,OK,50 Devices Test 3-32,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,0
+1756109565876,421,Device Authentication,200,OK,50 Devices Test 3-34,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,421,0,1
+1756109565883,422,Device Authentication,200,OK,50 Devices Test 3-35,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,422,0,1
+1756109566266,425,Device Authentication,200,OK,50 Devices Test 3-36,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109566286,681,Device Authentication,200,OK,50 Devices Test 3-37,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,681,0,0
+1756109566862,424,Device Authentication,200,OK,50 Devices Test 3-38,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109566864,429,Device Authentication,200,OK,50 Devices Test 3-39,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,429,0,1
+1756109566870,429,Device Authentication,200,OK,50 Devices Test 3-40,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,429,0,1
+1756109567059,428,Device Authentication,200,OK,50 Devices Test 3-41,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,428,0,1
+1756109567264,425,Device Authentication,200,OK,50 Devices Test 3-42,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109567449,426,Device Authentication,200,OK,50 Devices Test 3-43,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109567687,808,Device Authentication,200,OK,50 Devices Test 3-44,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,807,0,1
+1756109567845,650,Device Authentication,200,OK,50 Devices Test 3-45,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,650,0,1
+1756109568058,438,Device Authentication,200,OK,50 Devices Test 3-46,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,438,0,1
+1756109568275,420,Device Authentication,200,OK,50 Devices Test 3-47,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,420,0,0
+1756109568464,426,Device Authentication,200,OK,50 Devices Test 3-48,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,2
+1756109568696,420,Device Authentication,200,OK,50 Devices Test 3-49,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,420,0,0
+1756109568887,426,Device Authentication,200,OK,50 Devices Test 3-50,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109591309,7,Send Sensor Data,429,Too Many Requests,1 Device Test 1-1,text,false,,1158,518,1,61,http://localhost:3000/api/sensor/data,7,0,2
+1756109591376,3,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-1,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109591632,7,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-2,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,7,0,2
+1756109591639,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-1,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,1
+1756109591641,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-2,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,1
+1756109591643,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-3,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,1
+1756109591780,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-4,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,2
+1756109592033,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-5,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,2
+1756109592035,11,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-3,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,11,0,1
+1756109592056,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-6,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109592067,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-7,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,2
+1756109592074,7,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-4,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109592183,11,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-8,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,10,0,2
+1756109592183,16,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-9,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,16,0,2
+1756109592479,4,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-10,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,4,0,1
+1756109592564,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-11,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109592564,8,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-5,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,8,0,1
+1756109592715,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-12,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,2
+1756109592957,6,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-6,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,6,0,2
+1756109592982,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-14,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109593131,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-13,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,2
+1756109593141,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-15,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,1,0,0
+1756109593394,8,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-7,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,8,0,1
+1756109593395,12,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-16,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,12,0,1
+1756109593535,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-17,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,2
+1756109593710,6,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-18,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,6,0,1
+1756109594019,7,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-8,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109594118,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-19,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,1
+1756109594119,12,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-20,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,12,0,1
+1756109594315,3,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-9,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109594317,4,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-21,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,4,0,1
+1756109594509,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-22,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109594710,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-23,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,1
+1756109594796,7,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-10,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109594911,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-24,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,2
+1756109595076,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-29,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109595108,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-25,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109595324,5,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-26,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,5,0,1
+1756109595492,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-30,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,2
+1756109595542,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-27,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109595739,4,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-28,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,4,0,0
+1756109595888,4,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-31,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,4,0,1
+1756109595891,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-33,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109595891,4,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-32,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,4,0,0
+1756109596299,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-34,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,1
+1756109596307,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-35,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109596695,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-36,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109596971,9,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-37,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,9,0,1
+1756109597288,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-38,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109597295,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-39,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,1
+1756109597301,1,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-40,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,1,0,0
+1756109597491,5,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-41,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,4,0,0
+1756109597692,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-42,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109597879,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-43,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,1
+1756109598496,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-44,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109598496,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-46,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,1
+1756109598496,9,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-45,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,9,0,1
+1756109598695,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-47,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,1
+1756109598891,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-48,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109599118,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-49,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109599315,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-50,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109621317,424,Device Authentication,200,OK,1 Device Test 1-1,text,true,,1264,250,1,61,http://localhost:3000/api/auth/device,424,0,1
+1756109621380,425,Device Authentication,200,OK,10 Devices Test 2-1,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,425,0,1
+1756109621640,425,Device Authentication,200,OK,10 Devices Test 2-2,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,425,0,1
+1756109621641,426,Device Authentication,200,OK,50 Devices Test 3-1,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109621643,426,Device Authentication,200,OK,50 Devices Test 3-2,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109621645,429,Device Authentication,200,OK,50 Devices Test 3-3,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,429,0,1
+1756109621789,421,Device Authentication,200,OK,50 Devices Test 3-4,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,421,0,0
+1756109622041,426,Device Authentication,200,OK,50 Devices Test 3-5,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109622047,456,Device Authentication,200,OK,10 Devices Test 2-3,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,456,0,0
+1756109622065,439,Device Authentication,200,OK,50 Devices Test 3-6,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,439,0,0
+1756109622075,430,Device Authentication,200,OK,50 Devices Test 3-7,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,430,0,0
+1756109622082,533,Device Authentication,200,OK,10 Devices Test 2-4,text,true,,1264,250,10,61,http://localhost:3000/api/auth/device,533,0,1
+1756109622195,425,Device Authentication,200,OK,50 Devices Test 3-8,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109622200,426,Device Authentication,200,OK,50 Devices Test 3-9,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109622483,424,Device Authentication,200,OK,50 Devices Test 3-10,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109622571,426,Device Authentication,200,OK,50 Devices Test 3-11,text,true,,1264,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109622572,432,Device Authentication,200,OK,10 Devices Test 2-5,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,432,0,1
+1756109622725,431,Device Authentication,200,OK,50 Devices Test 3-12,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,431,0,2
+1756109622963,423,Device Authentication,200,OK,10 Devices Test 2-6,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,423,0,1
+1756109622985,427,Device Authentication,200,OK,50 Devices Test 3-14,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109623139,425,Device Authentication,200,OK,50 Devices Test 3-13,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109623142,430,Device Authentication,200,OK,50 Devices Test 3-15,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,430,0,1
+1756109623402,423,Device Authentication,200,OK,10 Devices Test 2-7,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,423,0,1
+1756109623408,574,Device Authentication,200,OK,50 Devices Test 3-16,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,574,0,1
+1756109623544,439,Device Authentication,200,OK,50 Devices Test 3-17,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,439,0,1
+1756109623716,427,Device Authentication,200,OK,50 Devices Test 3-18,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,427,0,2
+1756109624026,419,Device Authentication,200,OK,10 Devices Test 2-8,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,419,0,0
+1756109624127,424,Device Authentication,200,OK,50 Devices Test 3-19,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109624131,427,Device Authentication,200,OK,50 Devices Test 3-20,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109624319,425,Device Authentication,200,OK,10 Devices Test 2-9,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,425,0,1
+1756109624321,430,Device Authentication,200,OK,50 Devices Test 3-21,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,430,0,1
+1756109624515,422,Device Authentication,200,OK,50 Devices Test 3-22,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,422,0,1
+1756109624713,425,Device Authentication,200,OK,50 Devices Test 3-23,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109624804,427,Device Authentication,200,OK,10 Devices Test 2-10,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,427,0,1
+1756109624920,425,Device Authentication,200,OK,50 Devices Test 3-24,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109625083,429,Device Authentication,200,OK,50 Devices Test 3-29,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,429,0,0
+1756109625116,424,Device Authentication,200,OK,50 Devices Test 3-25,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109625329,611,Device Authentication,200,OK,50 Devices Test 3-26,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,611,0,1
+1756109625500,441,Device Authentication,200,OK,50 Devices Test 3-30,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,441,0,1
+1756109625544,421,Device Authentication,200,OK,50 Devices Test 3-27,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,421,0,1
+1756109625743,425,Device Authentication,200,OK,50 Devices Test 3-28,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109625892,431,Device Authentication,200,OK,50 Devices Test 3-31,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,431,0,2
+1756109625894,433,Device Authentication,200,OK,50 Devices Test 3-33,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,433,0,1
+1756109625895,438,Device Authentication,200,OK,50 Devices Test 3-32,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,438,0,1
+1756109626301,427,Device Authentication,200,OK,50 Devices Test 3-34,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,427,0,2
+1756109626313,425,Device Authentication,200,OK,50 Devices Test 3-35,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109626697,426,Device Authentication,200,OK,50 Devices Test 3-36,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,426,0,2
+1756109626980,426,Device Authentication,200,OK,50 Devices Test 3-37,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,426,0,2
+1756109627290,425,Device Authentication,200,OK,50 Devices Test 3-38,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109627297,425,Device Authentication,200,OK,50 Devices Test 3-39,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109627302,430,Device Authentication,200,OK,50 Devices Test 3-40,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,430,0,1
+1756109627496,427,Device Authentication,200,OK,50 Devices Test 3-41,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109627700,420,Device Authentication,200,OK,50 Devices Test 3-42,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,420,0,0
+1756109627887,427,Device Authentication,200,OK,50 Devices Test 3-43,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,427,0,2
+1756109628504,426,Device Authentication,200,OK,50 Devices Test 3-44,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109628505,431,Device Authentication,200,OK,50 Devices Test 3-46,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,431,0,1
+1756109628506,439,Device Authentication,200,OK,50 Devices Test 3-45,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,439,0,1
+1756109628698,421,Device Authentication,200,OK,50 Devices Test 3-47,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,421,0,1
+1756109628899,427,Device Authentication,200,OK,50 Devices Test 3-48,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109629127,429,Device Authentication,200,OK,50 Devices Test 3-49,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,429,0,1
+1756109629324,425,Device Authentication,200,OK,50 Devices Test 3-50,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109651742,3,Send Sensor Data,429,Too Many Requests,1 Device Test 1-1,text,false,,1158,518,1,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109651806,5,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-1,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,5,0,1
+1756109652067,7,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-2,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109652070,13,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-1,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,13,0,1
+1756109652071,21,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-2,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,21,0,1
+1756109652075,24,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-3,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,23,0,2
+1756109652212,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-4,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109652468,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-5,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,1
+1756109652505,2,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-3,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109652506,4,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-6,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,4,0,0
+1756109652507,6,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-7,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,6,0,0
+1756109652618,7,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-4,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109652622,11,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-8,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,11,0,1
+1756109652627,15,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-9,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,15,0,2
+1756109652910,4,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-10,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,4,0,1
+1756109653000,10,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-11,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,10,0,1
+1756109653007,12,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-5,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,12,0,1
+1756109653159,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-12,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109653388,5,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-6,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,5,0,1
+1756109653414,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-14,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109653566,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-13,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,2
+1756109653574,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-15,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109653829,8,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-7,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,8,0,1
+1756109653985,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-16,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109653986,9,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-17,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,9,0,1
+1756109654146,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-18,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,1
+1756109654448,8,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-8,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,7,0,2
+1756109654553,9,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-19,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,9,0,2
+1756109654560,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-20,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109654746,3,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-9,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109654753,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-21,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,1
+1756109654940,6,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-22,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,6,0,2
+1756109655140,10,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-23,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,10,0,1
+1756109655234,8,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-10,text,false,,1158,518,10,61,http://localhost:3000/api/sensor/data,8,0,2
+1756109655348,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-24,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109655515,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-29,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109655542,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-25,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109655943,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-26,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109655944,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-30,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109655967,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-27,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109656171,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-28,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,1
+1756109656326,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-31,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109656330,5,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-33,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,5,0,0
+1756109656336,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-32,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109656730,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-34,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109656740,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-35,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,1
+1756109657126,6,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-36,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,6,0,2
+1756109657409,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-37,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109657717,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-38,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109657724,4,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-39,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,4,0,1
+1756109657734,2,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-40,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,2,0,0
+1756109657925,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-41,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109658121,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-42,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,8,0,2
+1756109658316,5,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-43,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,5,0,1
+1756109658931,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-44,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109658938,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-46,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109658946,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-45,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109659122,5,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-47,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,5,0,1
+1756109659329,5,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-48,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,5,0,1
+1756109659558,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-49,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,3,0,0
+1756109659750,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-50,text,false,,1158,518,50,61,http://localhost:3000/api/sensor/data,7,0,1
+1756109681746,424,Device Authentication,200,OK,1 Device Test 1-1,text,true,,1263,250,1,61,http://localhost:3000/api/auth/device,424,0,1
+1756109681812,426,Device Authentication,200,OK,10 Devices Test 2-1,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,426,0,2
+1756109682076,426,Device Authentication,200,OK,10 Devices Test 2-2,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,426,0,2
+1756109682085,425,Device Authentication,200,OK,50 Devices Test 3-1,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109682094,430,Device Authentication,200,OK,50 Devices Test 3-2,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,430,0,2
+1756109682100,432,Device Authentication,200,OK,50 Devices Test 3-3,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,432,0,1
+1756109682221,424,Device Authentication,200,OK,50 Devices Test 3-4,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109682471,420,Device Authentication,200,OK,50 Devices Test 3-5,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,420,0,1
+1756109682508,426,Device Authentication,200,OK,10 Devices Test 2-3,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,426,0,1
+1756109682511,425,Device Authentication,200,OK,50 Devices Test 3-6,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109682514,427,Device Authentication,200,OK,50 Devices Test 3-7,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109682627,424,Device Authentication,200,OK,10 Devices Test 2-4,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,424,0,1
+1756109682635,425,Device Authentication,200,OK,50 Devices Test 3-8,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109682643,429,Device Authentication,200,OK,50 Devices Test 3-9,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,429,0,1
+1756109682915,420,Device Authentication,200,OK,50 Devices Test 3-10,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,420,0,0
+1756109683010,425,Device Authentication,200,OK,50 Devices Test 3-11,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,2
+1756109683019,584,Device Authentication,200,OK,10 Devices Test 2-5,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,584,0,1
+1756109683166,438,Device Authentication,200,OK,50 Devices Test 3-12,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,438,0,1
+1756109683393,422,Device Authentication,200,OK,10 Devices Test 2-6,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,422,0,1
+1756109683417,419,Device Authentication,200,OK,50 Devices Test 3-14,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,419,0,0
+1756109683575,425,Device Authentication,200,OK,50 Devices Test 3-13,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109683582,419,Device Authentication,200,OK,50 Devices Test 3-15,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,419,0,0
+1756109683837,422,Device Authentication,200,OK,10 Devices Test 2-7,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,422,0,1
+1756109683993,425,Device Authentication,200,OK,50 Devices Test 3-16,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,2
+1756109683996,423,Device Authentication,200,OK,50 Devices Test 3-17,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,423,0,2
+1756109684155,426,Device Authentication,200,OK,50 Devices Test 3-18,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,426,0,3
+1756109684456,543,Device Authentication,200,OK,10 Devices Test 2-8,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,543,0,1
+1756109684563,437,Device Authentication,200,OK,50 Devices Test 3-19,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,437,0,2
+1756109684568,432,Device Authentication,200,OK,50 Devices Test 3-20,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,432,0,1
+1756109684749,420,Device Authentication,200,OK,10 Devices Test 2-9,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,420,0,1
+1756109684756,419,Device Authentication,200,OK,50 Devices Test 3-21,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,419,0,1
+1756109684946,425,Device Authentication,200,OK,50 Devices Test 3-22,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,2
+1756109685151,425,Device Authentication,200,OK,50 Devices Test 3-23,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109685243,424,Device Authentication,200,OK,10 Devices Test 2-10,text,true,,1263,250,10,61,http://localhost:3000/api/auth/device,424,0,1
+1756109685356,427,Device Authentication,200,OK,50 Devices Test 3-24,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,427,0,1
+1756109685522,426,Device Authentication,200,OK,50 Devices Test 3-29,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109685544,425,Device Authentication,200,OK,50 Devices Test 3-25,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,2
+1756109685950,663,Device Authentication,200,OK,50 Devices Test 3-26,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,663,0,1
+1756109685952,662,Device Authentication,200,OK,50 Devices Test 3-30,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,662,0,1
+1756109685970,645,Device Authentication,200,OK,50 Devices Test 3-27,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,645,0,0
+1756109686174,442,Device Authentication,200,OK,50 Devices Test 3-28,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,442,0,1
+1756109686329,426,Device Authentication,200,OK,50 Devices Test 3-31,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,426,0,0
+1756109686334,423,Device Authentication,200,OK,50 Devices Test 3-33,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,423,0,1
+1756109686338,421,Device Authentication,200,OK,50 Devices Test 3-32,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,421,0,1
+1756109686733,426,Device Authentication,200,OK,50 Devices Test 3-34,text,true,,1263,250,50,61,http://localhost:3000/api/auth/device,425,0,1
+1756109686744,428,Device Authentication,200,OK,50 Devices Test 3-35,text,true,,1262,250,50,61,http://localhost:3000/api/auth/device,428,0,1
+1756109687132,423,Device Authentication,200,OK,50 Devices Test 3-36,text,true,,1262,250,50,61,http://localhost:3000/api/auth/device,423,0,1
+1756109687411,426,Device Authentication,200,OK,50 Devices Test 3-37,text,true,,1262,250,50,61,http://localhost:3000/api/auth/device,426,0,1
+1756109687719,421,Device Authentication,200,OK,50 Devices Test 3-38,text,true,,1262,250,50,61,http://localhost:3000/api/auth/device,421,0,1
+1756109687728,420,Device Authentication,200,OK,50 Devices Test 3-39,text,true,,1262,250,50,61,http://localhost:3000/api/auth/device,420,0,0
+1756109687736,419,Device Authentication,200,OK,50 Devices Test 3-40,text,true,,1262,250,50,61,http://localhost:3000/api/auth/device,419,0,0
+1756109687935,424,Device Authentication,200,OK,50 Devices Test 3-41,text,true,,1262,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109688132,424,Device Authentication,200,OK,50 Devices Test 3-42,text,true,,1262,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109688324,424,Device Authentication,200,OK,50 Devices Test 3-43,text,true,,1262,250,50,61,http://localhost:3000/api/auth/device,424,0,1
+1756109688943,1,Device Authentication,429,Too Many Requests,50 Devices Test 3-46,text,false,,1165,250,50,61,http://localhost:3000/api/auth/device,1,0,0
+1756109688955,2,Device Authentication,429,Too Many Requests,50 Devices Test 3-45,text,false,,1165,250,50,61,http://localhost:3000/api/auth/device,2,0,1
+1756109689130,4,Device Authentication,429,Too Many Requests,50 Devices Test 3-47,text,false,,1165,250,50,61,http://localhost:3000/api/auth/device,4,0,1
+1756109689336,2,Device Authentication,429,Too Many Requests,50 Devices Test 3-48,text,false,,1165,250,50,61,http://localhost:3000/api/auth/device,2,0,1
+1756109689564,4,Device Authentication,429,Too Many Requests,50 Devices Test 3-49,text,false,,1165,250,50,61,http://localhost:3000/api/auth/device,4,0,1
+1756109688940,643,Device Authentication,200,OK,50 Devices Test 3-44,text,true,,1262,250,50,61,http://localhost:3000/api/auth/device,643,0,0
+1756109689759,3,Device Authentication,429,Too Many Requests,50 Devices Test 3-50,text,false,,1165,250,50,61,http://localhost:3000/api/auth/device,3,0,1
+1756109712171,3,Send Sensor Data,429,Too Many Requests,1 Device Test 1-1,text,false,,1158,518,1,61,http://localhost:3000/api/sensor/data,3,0,1
+1756109712239,7,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-1,text,false,,1158,518,10,60,http://localhost:3000/api/sensor/data,7,0,1
+1756109712503,7,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-2,text,false,,1158,518,9,59,http://localhost:3000/api/sensor/data,7,0,2
+1756109712512,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-1,text,false,,1158,518,50,58,http://localhost:3000/api/sensor/data,7,0,1
+1756109712526,5,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-2,text,false,,1158,518,49,57,http://localhost:3000/api/sensor/data,5,0,1
+1756109712534,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-3,text,false,,1158,518,48,56,http://localhost:3000/api/sensor/data,3,0,1
+1756109712647,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-4,text,false,,1158,518,47,55,http://localhost:3000/api/sensor/data,7,0,1
+1756109712893,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-5,text,false,,1158,518,46,54,http://localhost:3000/api/sensor/data,7,0,1
+1756109712935,3,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-3,text,false,,1158,518,8,53,http://localhost:3000/api/sensor/data,3,0,1
+1756109712937,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-6,text,false,,1158,518,45,52,http://localhost:3000/api/sensor/data,3,0,1
+1756109712942,4,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-7,text,false,,1158,518,44,51,http://localhost:3000/api/sensor/data,4,0,1
+1756109713053,7,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-4,text,false,,1158,518,7,50,http://localhost:3000/api/sensor/data,7,0,2
+1756109713062,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-8,text,false,,1158,518,43,49,http://localhost:3000/api/sensor/data,7,0,1
+1756109713075,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-9,text,false,,1158,518,42,48,http://localhost:3000/api/sensor/data,7,0,1
+1756109713336,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-10,text,false,,1158,518,41,47,http://localhost:3000/api/sensor/data,7,0,1
+1756109713436,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-11,text,false,,1158,518,40,46,http://localhost:3000/api/sensor/data,8,0,2
+1756109713605,6,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-12,text,false,,1158,518,39,45,http://localhost:3000/api/sensor/data,6,0,1
+1756109713604,8,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-5,text,false,,1158,518,6,44,http://localhost:3000/api/sensor/data,8,0,2
+1756109713817,3,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-6,text,false,,1158,518,5,43,http://localhost:3000/api/sensor/data,3,0,0
+1756109713837,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-14,text,false,,1158,518,38,42,http://localhost:3000/api/sensor/data,7,0,1
+1756109714002,6,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-13,text,false,,1158,518,37,41,http://localhost:3000/api/sensor/data,6,0,1
+1756109714002,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-15,text,false,,1158,518,36,40,http://localhost:3000/api/sensor/data,8,0,1
+1756109714261,2,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-7,text,false,,1158,518,4,39,http://localhost:3000/api/sensor/data,2,0,0
+1756109714421,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-16,text,false,,1158,518,35,38,http://localhost:3000/api/sensor/data,7,0,1
+1756109714421,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-17,text,false,,1158,518,34,37,http://localhost:3000/api/sensor/data,8,0,1
+1756109714582,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-18,text,false,,1158,518,33,36,http://localhost:3000/api/sensor/data,7,0,1
+1756109715000,7,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-8,text,false,,1158,518,3,35,http://localhost:3000/api/sensor/data,7,0,2
+1756109715001,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-19,text,false,,1158,518,32,34,http://localhost:3000/api/sensor/data,8,0,1
+1756109715001,10,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-20,text,false,,1158,518,31,33,http://localhost:3000/api/sensor/data,10,0,1
+1756109715170,8,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-9,text,false,,1158,518,2,32,http://localhost:3000/api/sensor/data,8,0,1
+1756109715177,10,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-21,text,false,,1158,518,30,31,http://localhost:3000/api/sensor/data,10,0,1
+1756109715372,4,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-22,text,false,,1158,518,29,30,http://localhost:3000/api/sensor/data,4,0,1
+1756109715578,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-23,text,false,,1158,518,28,29,http://localhost:3000/api/sensor/data,7,0,1
+1756109715668,6,Send Sensor Data,429,Too Many Requests,10 Devices Test 2-10,text,false,,1158,518,1,28,http://localhost:3000/api/sensor/data,6,0,1
+1756109715785,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-24,text,false,,1158,518,27,27,http://localhost:3000/api/sensor/data,8,0,1
+1756109715951,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-29,text,false,,1158,518,26,26,http://localhost:3000/api/sensor/data,8,0,1
+1756109715970,9,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-25,text,false,,1158,518,25,25,http://localhost:3000/api/sensor/data,9,0,2
+1756109716615,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-26,text,false,,1158,518,24,24,http://localhost:3000/api/sensor/data,7,0,1
+1756109716616,9,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-30,text,false,,1158,518,23,23,http://localhost:3000/api/sensor/data,9,0,1
+1756109716616,11,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-27,text,false,,1158,518,22,22,http://localhost:3000/api/sensor/data,11,0,1
+1756109716617,12,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-28,text,false,,1158,518,21,21,http://localhost:3000/api/sensor/data,12,0,1
+1756109716758,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-31,text,false,,1158,518,20,20,http://localhost:3000/api/sensor/data,8,0,1
+1756109716759,9,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-33,text,false,,1158,518,19,19,http://localhost:3000/api/sensor/data,9,0,1
+1756109716761,9,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-32,text,false,,1158,518,18,18,http://localhost:3000/api/sensor/data,9,0,1
+1756109717160,7,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-34,text,false,,1158,518,17,17,http://localhost:3000/api/sensor/data,7,0,1
+1756109717173,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-35,text,false,,1158,518,16,16,http://localhost:3000/api/sensor/data,3,0,0
+1756109717557,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-36,text,false,,1158,518,15,15,http://localhost:3000/api/sensor/data,3,0,1
+1756109717839,10,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-37,text,false,,1158,518,14,14,http://localhost:3000/api/sensor/data,10,0,1
+1756109718142,5,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-38,text,false,,1158,518,13,13,http://localhost:3000/api/sensor/data,5,0,1
+1756109718150,4,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-39,text,false,,1158,518,12,12,http://localhost:3000/api/sensor/data,4,0,1
+1756109718157,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-40,text,false,,1158,518,11,11,http://localhost:3000/api/sensor/data,3,0,0
+1756109718360,5,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-41,text,false,,1158,518,10,10,http://localhost:3000/api/sensor/data,5,0,2
+1756109718558,8,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-42,text,false,,1158,518,9,9,http://localhost:3000/api/sensor/data,8,0,1
+1756109718750,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-43,text,false,,1158,518,8,8,http://localhost:3000/api/sensor/data,3,0,0
+1756109718946,4,Send Sensor Data,401,Unauthorized,50 Devices Test 3-46,text,false,,970,307,7,7,http://localhost:3000/api/sensor/data,4,0,1
+1756109718958,5,Send Sensor Data,401,Unauthorized,50 Devices Test 3-45,text,false,,970,307,6,6,http://localhost:3000/api/sensor/data,5,0,2
+1756109719137,4,Send Sensor Data,401,Unauthorized,50 Devices Test 3-47,text,false,,970,307,5,5,http://localhost:3000/api/sensor/data,4,0,1
+1756109719339,5,Send Sensor Data,401,Unauthorized,50 Devices Test 3-48,text,false,,970,307,4,4,http://localhost:3000/api/sensor/data,5,0,1
+1756109719570,4,Send Sensor Data,401,Unauthorized,50 Devices Test 3-49,text,false,,970,307,3,3,http://localhost:3000/api/sensor/data,4,0,1
+1756109719584,3,Send Sensor Data,429,Too Many Requests,50 Devices Test 3-44,text,false,,1158,518,2,2,http://localhost:3000/api/sensor/data,3,0,0
+1756109719763,3,Send Sensor Data,401,Unauthorized,50 Devices Test 3-50,text,false,,970,307,1,1,http://localhost:3000/api/sensor/data,3,0,1

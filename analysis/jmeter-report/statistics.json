@@ -1,0 +1,50 @@
+{
+  "Device Authentication" : {
+    "transaction" : "Device Authentication",
+    "sampleCount" : 305,
+    "errorCount" : 6,
+    "errorPct" : 1.9672132,
+    "meanResTime" : 443.3508196721311,
+    "medianResTime" : 426.0,
+    "minResTime" : 1.0,
+    "maxResTime" : 839.0,
+    "pct1ResTime" : 509.000000000001,
+    "pct2ResTime" : 644.4,
+    "pct3ResTime" : 833.3799999999999,
+    "throughput" : 1.2109661922061423,
+    "receivedKBytesPerSec" : 1.4920567565957954,
+    "sentKBytesPerSec" : 0.29564604301907765
+  },
+  "Send Sensor Data" : {
+    "transaction" : "Send Sensor Data",
+    "sampleCount" : 305,
+    "errorCount" : 205,
+    "errorPct" : 67.21311,
+    "meanResTime" : 307.1836065573772,
+    "medianResTime" : 8.0,
+    "minResTime" : 1.0,
+    "maxResTime" : 1287.0,
+    "pct1ResTime" : 898.8000000000002,
+    "pct2ResTime" : 1092.3999999999999,
+    "pct3ResTime" : 1220.82,
+    "throughput" : 1.2133749726493346,
+    "receivedKBytesPerSec" : 1.3288849133729834,
+    "sentKBytesPerSec" : 0.6088786475841903
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 610,
+    "errorCount" : 211,
+    "errorPct" : 34.590164,
+    "meanResTime" : 375.26721311475393,
+    "medianResTime" : 425.0,
+    "minResTime" : 1.0,
+    "maxResTime" : 1287.0,
+    "pct1ResTime" : 848.9,
+    "pct2ResTime" : 899.1499999999995,
+    "pct3ResTime" : 1212.67,
+    "throughput" : 2.164125888267245,
+    "receivedKBytesPerSec" : 2.518304713359752,
+    "sentKBytesPerSec" : 0.8071610282613554
+  }
+}

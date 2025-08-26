@@ -1,0 +1,101 @@
+[
+  {
+    "devices": 1,
+    "gateway": {
+      "testConfiguration": {
+        "devices": 1,
+        "duration": "30.066s",
+        "totalRequests": 0
+      },
+      "latencyMetrics": {
+        "mean": "0.00ms",
+        "variance": "0.00",
+        "stdDev": "0.00ms",
+        "min": "0.00ms",
+        "max": "0.00ms"
+      },
+      "throughput": "0.00 requests/second",
+      "reliability": {
+        "successRate": "NaN%",
+        "errorRate": "NaN%",
+        "totalErrors": 0
+      }
+    },
+    "direct": {
+      "configuration": "Direct ESP32 → Firebase",
+      "samples": 50,
+      "latency": {
+        "mean": "507.93ms",
+        "stdDev": "506.07ms",
+        "min": "416.37ms",
+        "max": "4024.88ms"
+      }
+    }
+  },
+  {
+    "devices": 10,
+    "gateway": {
+      "testConfiguration": {
+        "devices": 10,
+        "duration": "30.065s",
+        "totalRequests": 0
+      },
+      "latencyMetrics": {
+        "mean": "0.00ms",
+        "variance": "0.00",
+        "stdDev": "0.00ms",
+        "min": "0.00ms",
+        "max": "0.00ms"
+      },
+      "throughput": "0.00 requests/second",
+      "reliability": {
+        "successRate": "NaN%",
+        "errorRate": "NaN%",
+        "totalErrors": 0
+      }
+    },
+    "direct": {
+      "configuration": "Direct ESP32 → Firebase",
+      "samples": 50,
+      "latency": {
+        "mean": "426.74ms",
+        "stdDev": "62.02ms",
+        "min": "415.99ms",
+        "max": "860.62ms"
+      }
+    }
+  },
+  {
+    "devices": 50,
+    "gateway": {
+      "testConfiguration": {
+        "devices": 50,
+        "duration": "30.133s",
+        "totalRequests": 0
+      },
+      "latencyMetrics": {
+        "mean": "0.00ms",
+        "variance": "0.00",
+        "stdDev": "0.00ms",
+        "min": "0.00ms",
+        "max": "0.00ms"
+      },
+      "throughput": "0.00 requests/second",
+      "reliability": {
+        "successRate": "NaN%",
+        "errorRate": "NaN%",
+        "totalErrors": 0
+      }
+    },
+    "direct": {
+      "configuration": "Direct ESP32 → Firebase",
+      "samples": 50,
+      "latency": {
+        "mean": "421.91ms",
+        "stdDev": "30.37ms",
+        "min": "416.40ms",
+        "max": "634.40ms"
+      }
+    }
+  }
+]

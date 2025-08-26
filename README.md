@@ -184,5 +184,6 @@ This project is developed as part of an academic dissertation for the CMP9140 Re
 
 ## Author
 
-Derrick Ogbejesi
-University of Lincoln
+#### Derrick Ogbejesi
+
+#### University of Lincoln

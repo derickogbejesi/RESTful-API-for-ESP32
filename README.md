@@ -24,14 +24,12 @@ The system implements a three-tier architecture:
 - **Runtime**: Node.js 18.x LTS
 - **Framework**: Express.js 4.18.2
 - **Database**: Firebase Realtime Database
-- **Cache**: Redis 4.5.1
 - **Authentication**: JSON Web Tokens (JWT)
 - **Testing**: Jest, JMeter 5.6.3
 
 ## Prerequisites
 
 - Node.js 18.x or higher
-- Redis server
 - Firebase project with Realtime Database
 - npm or yarn package manager
 
